@@ -34,9 +34,8 @@ a:hover {
 }
 
 .spacer {
-    margin-top: 60px; /* define margin as you see fit */
+    margin-top: 60px;
 }
-
 
 .gutter-40.row {
   margin-right: -20px;
@@ -75,12 +74,6 @@ a:hover {
   border-color: grey;
 
 }
-
-
-#success_message {
-  display: none;
-}
-
 
 .awesome-text {
   font-family: 'Bangers', cursive;
