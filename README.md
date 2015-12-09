@@ -1,20 +1,14 @@
-# Ping-Pong #
+# My Website #
 #### By: Jacob Shwartz
 
-Ping Pong is a sample JavaScript application for demonstrating basic proficiency in JavaScript, jQuery, Git, Markdown, HTML, Bootstrap, CSS, and BDD.
-
-A user enters a number and is shown a range of numbers from 1 to the number entered with the following exceptions:
-
-- Numbers divisible by 3 are replaced with "ping"
-- Numbers divisible by 5 are replaced with "pong"
-- Numbers divisible by 15 are replaced with "pingpong"
+My personal website is designed to give users basic information about me and to demonstrate basic proficiency in JavaScript, jQuery, Git, Markdown, HTML, Bootstrap, and CSS.
 
 ## Installation ##
 
-Install Ping-Pong by cloning this repository:
+Install by cloning this repository:
 
-        https://github.com/jshwartz/ping-pong-test.git
+        https://github.com/jshwartz/jshwartz.github.io.git
 
-## Licence ##
+## Copyright ##
 
-MIT License. Copyright 2015 Epicodus  
+Copyright 2015 Jacob Shwartz
