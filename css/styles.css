@@ -1,0 +1,88 @@
+h1, h2, h3 {
+  font-family: 'Lora', serif;
+}
+
+a {
+  color: #1DA781;
+}
+
+a:hover {
+  color: #118263;
+}
+
+.jumbotron {
+  background:url('../img/cover2.jpeg') no-repeat center center;
+  height: 100%;
+  min-height: 500px;
+  background-size: cover;
+  margin-top: 50px;
+  border-bottom: 1px solid #222;
+
+}
+
+.fullScreen   {
+	margin:0;
+	padding:0;
+}
+
+.titleBox {
+  background-color: #1DA781;
+  opacity: 0.6;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: white;
+}
+
+.spacer {
+    margin-top: 60px; /* define margin as you see fit */
+}
+
+
+.gutter-40.row {
+  margin-right: -20px;
+  margin-left: -20px;
+}
+
+.gutter-40 > [class^="col-"], .gutter-20 > [class^=" col-"] {
+  padding-left: 40px;
+  padding-left: 40px;
+}
+
+.footer {
+  background-color: #1DA781;
+  height: 100px;
+  border-top: 1px solid #222;
+
+}
+
+.footer-text {
+  color: #333;
+}
+
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.bottom-border {
+  border-bottom: 1px solid;
+  border-color: grey;
+
+}
+
+
+#success_message {
+  display: none;
+}
+
+
+.awesome-text {
+  font-family: 'Bangers', cursive;
+  font-weight: bold;
+}
