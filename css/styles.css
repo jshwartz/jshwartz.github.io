@@ -10,6 +10,10 @@ a:hover {
   color: #118263;
 }
 
+.thumbnail-image {
+  height: 100px;
+}
+
 .jumbotron {
   background:url('../img/cover2.jpeg') no-repeat center center;
   height: 100%;
@@ -20,17 +24,19 @@ a:hover {
 
 }
 
+@media (min-width: 992px) {
+  .jumbotron {
+    background-position: 50% 38%;
+  }
+}
+
 .fullScreen   {
 	margin:0;
 	padding:0;
 }
 
-.titleBox {
-  background-color: #1DA781;
-  opacity: 0.6;
-  padding-left: 10px;
-  padding-right: 10px;
-  color: white;
+.title {
+  font-size: 2rem;
 }
 
 .spacer {
